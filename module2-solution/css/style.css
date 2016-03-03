@@ -39,7 +39,7 @@ p
 		font-family: Helvetica;
 		color: black;
 		hyphens: auto;
-		/*text-align:justify;*/
+		text-align:justify;
 		 /* overflow-y:scroll; */
 	}
 	
